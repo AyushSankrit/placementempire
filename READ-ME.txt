@@ -1,6 +1,6 @@
-  =>  Template Name    : E STARTUP - Landing Page HTML Template
+  =>  Template Name    : Promotion India - Start-up informative website
 
-  =>  Template Link    : https://htmlcodex.com/landing-page-html-template
+
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
